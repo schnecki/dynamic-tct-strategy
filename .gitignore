@@ -1,0 +1,5 @@
+.stack-work/
+*~
+/TAGS
+/dynamic-tct-strategy.cabal
+/stack.yaml.lock
